@@ -63,7 +63,7 @@ const General = (props) => {
         }
 
         input[type="submit"]:hover {
-          background-color: #45a049;
+          background-color: #2874b4;
         }
         .row {
           display: flex;
